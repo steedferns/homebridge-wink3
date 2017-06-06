@@ -1,5 +1,7 @@
 # homebridge-wink3
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sibartlett/homebridge-wink3.svg)](https://greenkeeper.io/)
+
 Yet another Wink plugin for [homebridge](https://github.com/nfarina/homebridge).
 
 * Uses Wink API v2, and local control.
